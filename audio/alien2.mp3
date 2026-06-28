@@ -1,0 +1,544 @@
+ID3|TSSELavf60.16.101GEOBZapplication/x-c2pa-manifest-storec2pac2pa manifest store�jumbjumdc2pa��8�qc2pa@�jumbGjumdc2ma��8�qurn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9{jumb)jumdc2as��8�qc2pa.assertions�jumb)jumdcbor��8�qc2pa.actions.v2�cbor�gactions��factionlc2pa.createdmsoftwareAgentjElevenLabsqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia�jumbNjumdjson��8�qstds.schema-org.CreativeWorkc2sh=N�t
+�݅�a��I~json{"@context":"https://schema.org","@type":"CreativeWork","author":[{"@type":"Organization","name":"Eleven Labs Inc."}]}�jumb(jumdcbor��8�qc2pa.hash.data{cbor�jexclusions��estarthflength@�dnamenjumbf manifestcalgfsha256dhashX k'n6�n�y�a�)g�g�g$����z��c=�ܶcpadHdjumb'jumdc2cl��8�qc2pa.claim.v25cbor�jinstanceIDx,xmp:iid:75b20fb6-258a-4425-b880-92ba72af769dtclaim_generator_info�dnamegc2pa-rsgversionf0.67.1worg.contentauth.c2pa_rsf0.67.1�isignaturexMself#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.signaturercreated_assertions��curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX !�s�kt��j����d2��ĬĔ�a�LJ��~�curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX �GJ���������#��WM���2c�q���{�sgathered_assertions��curlx7self#jumbf=c2pa.assertions/stds.schema-org.CreativeWorkdhashX #��h2y�w��&�حB]�atjO�)%�c@Qcalgfsha256;Sjumb(jumdc2cs��8�qc2pa.signature;#cbor҄Ya�8"!�Y60�20��[�cqp��y����0
+	*�H��
+0f10	UUS10U
+DigiCert Inc10Uwww.digicert.com1%0#UDigiCert Document Signing CA0
+251007000000Z
+261006235959Z0V10	UUS10UNew York10U
+Eleven Labs Inc.10UEleven Labs Inc.0v0*�H�=+�"b��<�lɱ�Z�:��?�:���#��tC*5�W���;$���茗Ö�����6�@��?	���';u���)C�������$Yb��y���\v�dF���0��0U#0���5���������Zo�/K�d0U�':o��x�Q�\��u�j�0U 0
+0	`�H��l0U��0U%0++0��U��0��0?�=�;�9http://crl3.digicert.com/DigiCertDocumentSigningCA-g1.crl0?�=�;�9http://crl4.digicert.com/DigiCertDocumentSigningCA-g1.crl0{+o0m0$+0�http://ocsp.digicert.com0E+0�9http://cacerts.digicert.com/DigiCertDocumentSigningCA.crt0
+	*�H��
+�����f�����̡�emu�wf��l�?���M����C���>�s�+E�̨`��_k�s��$�����f2����e	�S��,�i�(4Cz��At�T�d�+�`�Rp��L�"=]��x�ߡ)U��r8��[��}��:�պ��Y��B)Dv���S�q�I�0��B��D��J�����ۇ�H1���������ooy`%r�����R���ǲ���e�Z$=�G�`~��:��0�7�����^�>�Y`0�\0�D�	Ƿ۲x$7�^j�3�0
+	*�H��
+0e10	UUS10U
+DigiCert Inc10Uwww.digicert.com1$0"UDigiCert Assured ID Root CA0
+131105120000Z
+281105120000Z0f10	UUS10U
+DigiCert Inc10Uwww.digicert.com1%0#UDigiCert Document Signing CA0�"0
+	*�H��
+�0�
+��Q:w��$����ޕz1
+J�j�}%|�����4h�	&>1E�!HLՙ����w��g�Z������*��Tb�#b�a�nOb����Ý������ƮK-�H�c��`�����q4�^�؊J�60�
+6-�O�1�YN�2�blue�z���[4H��K� V��H���cL'�0Ug�)@#����
+e��"OoD���ru⺬1M]���,��(ݨF8���?��NZ�_��F�Ao������5
+-�,�������0�0U�0�0U��04+(0&0$+0�http://ocsp.digicert.com0��Uz0x0:�8�6�4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:�8�6�4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0U%0++0��U ��0��0��
+`�H��l0��0(+https://www.digicert.com/CPS0�d+0�V�RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference.0	`�H��l0U��5���������Zo�/K�d0U#0�E뢯��˂1-Q���!��m�0
+	*�H��
+�Yp��0��S�|��	��dKe^�^�T��f�\��ߏzjw��,�E�r��u8�%)��nAk���ា�(\!��ѡ1���R���L�!�����U���+�w���\�19��
+yw!���p]�f���˭�6
+���
+���ݸ��Q��m��D���y���b��yi����ǯ�N������o6�5TыG�vY�	�j�d�-�O�;�6 I���{!OGӎҐ�imO���e�:��O��q3I�U�����Y�0��0�������F���`��090
+	*�H��
+0e10	UUS10U
+DigiCert Inc10Uwww.digicert.com1$0"UDigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e10	UUS10U
+DigiCert Inc10Uwww.digicert.com1$0"UDigiCert Assured ID Root CA0�"0
+	*�H��
+�0�
+����C�\���`�q���&������ 9(X`��ک�2a<��(���ܟ
+�z�����yS\1�*��26v���<���j�!�Raߟ ����d�[_�X5�G͡6�k԰8>�Ì3��/�(�����nD�a5��Y��vm��K
++�rڞ`Ў�5�xU� ���m
+�I|1�3l"��2Z����9��:r������1u��}"�?F��(yȱ��W�~����V��������Ũ?������_wO�c0a0U��0U�0�0UE뢯��˂1-Q���!��m�0U#0�E뢯��˂1-Q���!��m�0
+	*�H��
+��������rszd���rf�2�Bub�������V����(�
+�`\LX��=�IEX�5i�G�V�y��g���	<��&, �=�(��_�"◄�e����gI�]�	*�&�x�}?+�&5m_��I[���=%�̶��o���dh�-��B����b�Pg�l���k67|�[mz�F`��'�KΗ��g*h߀�3f�
+n�c��%ml���a�ң&�q�����ÙQ�+�.�P���
+E/���gsigTst2�itstTokens��cvalYm0�i	*�H��
+��Z0�V10
+	`�He0��*�H��
+	�rp0n	`�H��l010
+	`�He 7)�w�k�)i�%�Q&2`�����u�Q�&!�M�o����wY�Qlt20260626003801Z>&\fZ���:0��0�ՠ
+��K�����v��th0
+	*�H��
+0i10	UUS10U
+DigiCert, Inc.1A0?U8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+250604000000Z
+360903235959Z0c10	UUS10U
+DigiCert, Inc.1;09U2DigiCert SHA256 RSA4096 Timestamp Responder 2025 10�"0
+	*�H��
+�0�
+��F�-ƞ��`V�+W�oQ��p
+��7�B0c2����q�����Lpl|H狦��g�M��<tM������c�7!O$��*�C���f�[dz�+�D��`�+,�z���̯r}���zd�6�8�H�OQiK�4
+Y|�:�p%w+q4�==��?�pYe+��#��oe(ʳt�;T
+Q�]٧p�p���I� ����$���1�N�z����\�8�(u�*���'nKpRj-�\��pـ�ì�I+�ޥ<?��Ikz,�r����d�5��4�K�
+N����Ǹ�4
+|�'���%�-+��)��M;��~�$�hD�Ul�uUYù'�U�\�ǀ;�������=���5�~�B�����v�(���e7t �mk�*�4���1�b�&�-�=����,��3C!x��à��������IDN�{��Dz�~X���u.OX�z�V��i
+$�J�ޕ�4ɒ{�"�ѡ�7!!͛BiЊ
+Eع�$��L�p	CUp�����y����0��0U�00U�;��1�����qcPC�a��0U#0��oSJ��|z��V�/�I��N0U��0U%�0
++0��+��0��0$+0�http://ocsp.digicert.com0]+0�Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_UX0V0T�R�P�Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 U 00g�0	`�H��l0
+	*�H��
+�e*��'��`A��D�c@r!���"O�5��
+�o�|�����hم��!��&D7�O����T�a��!���#�¼zP�����u?0�e����r&fR{a|�t�N�>�19�<�f�� �-�`��-�B���P��e*[�Z"��\Q?%�er�SL�Lޑ�(s�ym��l^�E�4�(lC'Ń��PQ)�n6|�U7��-�E�B�ל��b@œ��ڈ�}�<T���&i�%5wB_�������yj˄U=*��̓D�����r��A�'3�p�V9��"	�9ORJ����c���?��ޔ���@�
+�:�%�2`u�w�t�}IP�����%ً����p�q�#�eE��в!���E������-­j��uG�I����'qU��%CNhŌ���1{���~�z	W�JW�Ğ�k�"�SUdO���!6��
+<�`m���iƏ�..=�7eO����C�Ů�.�8d�榋��B�yl���5s�!H�j��g0��0���
+ǬW�!�.@C":I�0
+	*�H��
+0b10	UUS10U
+DigiCert Inc10Uwww.digicert.com1!0UDigiCert Trusted Root G40
+250507000000Z
+380114235959Z0i10	UUS10U
+DigiCert, Inc.1A0?U8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10�"0
+	*�H��
+�0�
+��x1�
+�Ar�<F��uۣFht�Q�M��
+�����,T�Cj�52lB���:s����^.<#����"����ڧ�%�Z�5���g�H��Ӫ��C��I����gC�����`�P]&G��-�>���a���n@��AvÄ	-T�o2�Ab�"9<x:؅pĤ�;E���|�JK�Z��|4^o���g`�7j�l�Ԏ�o�d�"��B���<�X�q)5U�ٔ<��&�1H�k��	�E�v�TR�K��x�<��h`i<��'�>�/h�O��|I���ƥ5�P�.�r��ϧ���5�fPJ�%�d1�q�K����в@Aq��տÌ	�5&���V���}2g���E�A�|�8���z�X1	���^�V��/�'O������s<3��.��;bOޅ��[��ʈ1�<z�W���l4�`$�"���f]J�Sj̒��C��F)�l�.�A0�f�E%�Y�>΁i��Z��J3fڠ>��TxF4�X�(它�_���)���k cS��]0�Y0U�0�0U�oSJ��|z��V�/�I��N0U#0�����q]dL�.g?纘�O0U��0U%0
++0w+k0i0$+0�http://ocsp.digicert.com0A+0�5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0CU<0:08�6�4�2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 U 00g�0	`�H��l0
+	*�H��
+�����=vq0��ȵ4��Їň0OÛ\s���Lci�]���Pk���3j�$���<H��K��~�wa8�!P���E�+I�y�������,-��r�S>4�ĸ���c¿ɿkR��|��7��A���+�Gj��{n��X���X���� ?�Ѷ�rԋ�|u5��Ӛ��B������6�T�t�d���	ٮ�/5�6�W�1tI�SJS��Ag/�1[���3�z�ξZ>϶�H]4M��.���ڈ�6��Dwj|��[�f(�}3�-��F��b
+�:U|r*C�����c�\�2��SL��e�v��:weԦ�I�N��o84s[�1��e��tr�F��a:m1&�v������d�w�iG�A��%�7���,�%g��̈=�/�&����>��X(���,��1�ȟ����!���yL���?�0��0�t-�zؒ�KP��
+�t��Z�Ȉ傝�V������R3��&l�šm�6��֐�O��\0��0�u�����-���P�@Z0
+	*�H��
+0e10	UUS10U
+DigiCert Inc10Uwww.digicert.com1$0"UDigiCert Assured ID Root CA0
+220801000000Z
+311109235959Z0b10	UUS10U
+DigiCert Inc10Uwww.digicert.com1!0UDigiCert Trusted Root G40�"0
+	*�H��
+�0�
+���sh޻�]J<0"0i3�§%.�!=��Y��)�=X�v�ͮ{�
+�0��8�VƗm��y����_�<RRƞ�~���WYUr�h�p²�u�js2��D.߂���t;mq�-� �� c)-��^Nȓ�!a�4��^�[����ͬ4@_�zf�w�H�fWW�TX�+�O�0�V��{]��O^�5�1�ړ^܎��ڶ��@�y�xǶ�ĵj8���7�.}���>�p�U�A2��s*n�|!LԼ�u]xf�:1D�3@��ZI��橠gݤ'��O9�X�$\F�d��i�v�v=Y]Bv���izH��f�t��K�c���:�=��E%���D+~����am�3���K�}�Ï�!�����Ռp,A`��cD�vb~�����d�3щί�C���w��!�T)%�l�RQGt�&��Au�z�_�?ɼ�A[�P�1��r"	�|Lu?c�!_� Qko����O��E_� �������~
+&���i/�-�٩����:0�60U�0�0U����q]dL�.g?纘�O0U#0�E뢯��˂1-Q���!��m�0U��0y+m0k0$+0�http://ocsp.digicert.com0C+0�7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0EU>0<0:�8�6�4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0U 
+00U 0
+	*�H��
+�p��C\U�8_��t=����W�����,�^��"��iT"���wm��Jz/-�8���������r�$�R�N�*��-V�����0z���^���CD�C!�r�H��˝O�w'D���Y��/���4<��Ǉ��L@5FjiT���V���=�����wZ\T�o�P=�v	h��o�� �5`� ��X�@cŘ"��Y�Uk�'�lv�o#-�~qj#k"��T-'~�:�𶇖�[�\��M�s���W�^(⹔1�|0�x0}0i10	UUS10U
+DigiCert, Inc.1A0?U8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+��K�����v��th0
+	`�He���0	*�H��
+	1
+*�H��
+	0	*�H��
+	1
+260626003801Z0+*�H��
+	1000�b0��
+-0k�8�hyR0�A~0/	*�H��
+	1" �mH��&�,�28ٟ[�~}|,ٜ�B��R,�07*�H��
+	/1(0&0$0" J�?�,�\��\����gk��ʳ?�m&��4�F
+30
+	*�H��
+�I5"�y+�{�&�}��a���a���
+N�Ւ�z�џ��EmK(t8��Sx���N_�M��`m����\隈@�D������C���όFx�|�ϊ�O��ׂ���)&`��|P�m8��;WE��^sV�>����W�L���%
+��5�A>|���<m���^j󽕤a-X3͍�S��(Ǘ��g��Q�Fb���Ė�FN��8��op��o�R�	+�i �-���%�����E���(�r�R��r}<��!y7Q�M�j�T-d�K�p[��^bLJ���?��z!������"�-^j�r�8<7����NI�G��^4�l�B�L�2d�Ci��U꛰z�	=x����Ȱ��Hyv�3�q�;:Ӌ}�K�����ق���O�u�	�r����v�]�{0����!��"�?�ef6��(*�OC���E�9s����r�.�*sC;1�U��l^{��n�F|�l�-�`B�}�H���L���g�Xꂣ���)�!���@cpadY��X`�� ]fX18ā8�`|����њ����A*�� 2cQ2m�#o�8!�w?nbS�m�fJ��5C�~I��R	��EW|]x�b�_����}�VQB@�]IwjumbGjumdc2ma��8�qurn:c2pa:e7426c20-a723-434d-a610-cfabce871c14jumb)jumdc2as��8�qc2pa.assertions�jumb,jumdcbor��8�qc2pa.ingredient.v3�cbor�lrelationshiphparentOfidc:formatjaudio/mpegqvalidationResults�nactiveManifest�gsuccess��dcodestimeStamp.validatedcurlxMself#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.signaturekexplanationxTtimestamp message digest matched: DigiCert SHA256 RSA4096 Timestamp Responder 2025 1�dcodexclaimSignature.insideValiditycurlxMself#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.signaturekexplanationuclaim signature valid�dcodexclaimSignature.validatedcurlxMself#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.signaturekexplanationuclaim signature valid�dcodexassertion.hashedURI.matchcurlx^self#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.assertions/c2pa.actions.v2kexplanationx>hashed uri matched: self#jumbf=c2pa.assertions/c2pa.actions.v2�dcodexassertion.hashedURI.matchcurlx]self#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.assertions/c2pa.hash.datakexplanationx=hashed uri matched: self#jumbf=c2pa.assertions/c2pa.hash.data�dcodexassertion.hashedURI.matchcurlxkself#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.assertions/stds.schema-org.CreativeWorkkexplanationxKhashed uri matched: self#jumbf=c2pa.assertions/stds.schema-org.CreativeWork�dcodexassertion.dataHash.matchcurlx]self#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.assertions/c2pa.hash.datakexplanationodata hash validminformational��dcodestimeStamp.untrustedcurlxMself#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.signaturekexplanationxLtimestamp cert untrusted: DigiCert SHA256 RSA4096 Timestamp Responder 2025 1gfailure�jinstanceIDx,xmp:iid:59401067-257e-4fc0-a1fb-c5c81caaefe3nactiveManifest�curlx>self#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9calgfsha256dhashX t�*hг�	!,��H���!ÚG������N�NnclaimSignature�curlxMself#jumbf=/c2pa/urn:c2pa:fb25c220-2230-4cc8-925c-b38f57f653a9/c2pa.signaturecalgfsha256dhashX �T�#�(1���ج��u�>�rn�n�k�
+��3`jumb)jumdcbor��8�qc2pa.actions.v2/cbor�gactions��factionkc2pa.openedjparameters�kingredients��curlx-self#jumbf=c2pa.assertions/c2pa.ingredient.v3dhashX �+��U�(�y4tP����씚𐨭� �����factionkc2pa.editedmsoftwareAgentjElevenLabsqdigitalSourceTypexShttp://cv.iptc.org/newscodes/digitalsourcetype/compositeWithTrainedAlgorithmicMedia�jumbNjumdjson��8�qstds.schema-org.CreativeWorkc2sh'���E������/~json{"@context":"https://schema.org","@type":"CreativeWork","author":[{"@type":"Organization","name":"Eleven Labs Inc."}]}�jumb(jumdcbor��8�qc2pa.hash.data}cbor�jexclusions��estarthflength�dnamenjumbf manifestcalgfsha256dhashX 0�c����S*��!?RW�~*�����|7��QcpadJ�jumb'jumdc2cl��8�qc2pa.claim.v2�cbor�jinstanceIDx,xmp:iid:5c7e1573-4861-4bbd-b670-fa7f9bce8987tclaim_generator_info�dnamegc2pa-rsgversionf0.67.1worg.contentauth.c2pa_rsf0.67.1�isignaturexMself#jumbf=/c2pa/urn:c2pa:e7426c20-a723-434d-a610-cfabce871c14/c2pa.signaturercreated_assertions��curlx-self#jumbf=c2pa.assertions/c2pa.ingredient.v3dhashX �+��U�(�y4tP����씚𐨭� ��̢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX ���%
+�)���=�-��m��5QD�b��T�curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX G�N;�Z�S-hR��"�(P��^(�f�݁_sgathered_assertions��curlx7self#jumbf=c2pa.assertions/stds.schema-org.CreativeWorkdhashX ~����/�$W��u�
+�  >&��t���(sredacted_assertions�calgfsha256;Sjumb(jumdc2cs��8�qc2pa.signature;#cbor҄Ya�8"!�Y60�20��[�cqp��y����0
+	*�H��
+0f10	UUS10U
+DigiCert Inc10Uwww.digicert.com1%0#UDigiCert Document Signing CA0
+251007000000Z
+261006235959Z0V10	UUS10UNew York10U
+Eleven Labs Inc.10UEleven Labs Inc.0v0*�H�=+�"b��<�lɱ�Z�:��?�:���#��tC*5�W���;$���茗Ö�����6�@��?	���';u���)C�������$Yb��y���\v�dF���0��0U#0���5���������Zo�/K�d0U�':o��x�Q�\��u�j�0U 0
+0	`�H��l0U��0U%0++0��U��0��0?�=�;�9http://crl3.digicert.com/DigiCertDocumentSigningCA-g1.crl0?�=�;�9http://crl4.digicert.com/DigiCertDocumentSigningCA-g1.crl0{+o0m0$+0�http://ocsp.digicert.com0E+0�9http://cacerts.digicert.com/DigiCertDocumentSigningCA.crt0
+	*�H��
+�����f�����̡�emu�wf��l�?���M����C���>�s�+E�̨`��_k�s��$�����f2����e	�S��,�i�(4Cz��At�T�d�+�`�Rp��L�"=]��x�ߡ)U��r8��[��}��:�պ��Y��B)Dv���S�q�I�0��B��D��J�����ۇ�H1���������ooy`%r�����R���ǲ���e�Z$=�G�`~��:��0�7�����^�>�Y`0�\0�D�	Ƿ۲x$7�^j�3�0
+	*�H��
+0e10	UUS10U
+DigiCert Inc10Uwww.digicert.com1$0"UDigiCert Assured ID Root CA0
+131105120000Z
+281105120000Z0f10	UUS10U
+DigiCert Inc10Uwww.digicert.com1%0#UDigiCert Document Signing CA0�"0
+	*�H��
+�0�
+��Q:w��$����ޕz1
+J�j�}%|�����4h�	&>1E�!HLՙ����w��g�Z������*��Tb�#b�a�nOb����Ý������ƮK-�H�c��`�����q4�^�؊J�60�
+6-�O�1�YN�2�blue�z���[4H��K� V��H���cL'�0Ug�)@#����
+e��"OoD���ru⺬1M]���,��(ݨF8���?��NZ�_��F�Ao������5
+-�,�������0�0U�0�0U��04+(0&0$+0�http://ocsp.digicert.com0��Uz0x0:�8�6�4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:�8�6�4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0U%0++0��U ��0��0��
+`�H��l0��0(+https://www.digicert.com/CPS0�d+0�V�RAny use of this Certificate constitutes acceptance of the DigiCert CP/CPS and the Relying Party Agreement which limit liability and are incorporated herein by reference.0	`�H��l0U��5���������Zo�/K�d0U#0�E뢯��˂1-Q���!��m�0
+	*�H��
+�Yp��0��S�|��	��dKe^�^�T��f�\��ߏzjw��,�E�r��u8�%)��nAk���ា�(\!��ѡ1���R���L�!�����U���+�w���\�19��
+yw!���p]�f���˭�6
+���
+���ݸ��Q��m��D���y���b��yi����ǯ�N������o6�5TыG�vY�	�j�d�-�O�;�6 I���{!OGӎҐ�imO���e�:��O��q3I�U�����Y�0��0�������F���`��090
+	*�H��
+0e10	UUS10U
+DigiCert Inc10Uwww.digicert.com1$0"UDigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e10	UUS10U
+DigiCert Inc10Uwww.digicert.com1$0"UDigiCert Assured ID Root CA0�"0
+	*�H��
+�0�
+����C�\���`�q���&������ 9(X`��ک�2a<��(���ܟ
+�z�����yS\1�*��26v���<���j�!�Raߟ ����d�[_�X5�G͡6�k԰8>�Ì3��/�(�����nD�a5��Y��vm��K
++�rڞ`Ў�5�xU� ���m
+�I|1�3l"��2Z����9��:r������1u��}"�?F��(yȱ��W�~����V��������Ũ?������_wO�c0a0U��0U�0�0UE뢯��˂1-Q���!��m�0U#0�E뢯��˂1-Q���!��m�0
+	*�H��
+��������rszd���rf�2�Bub�������V����(�
+�`\LX��=�IEX�5i�G�V�y��g���	<��&, �=�(��_�"◄�e����gI�]�	*�&�x�}?+�&5m_��I[���=%�̶��o���dh�-��B����b�Pg�l���k67|�[mz�F`��'�KΗ��g*h߀�3f�
+n�c��%ml���a�ң&�q�����ÙQ�+�.�P���
+E/���gsigTst2�itstTokens��cvalYm0�i	*�H��
+��Z0�V10
+	`�He0��*�H��
+	�rp0n	`�H��l010
+	`�He ��|����H;n-�M(�I��퇶�ݘ*�ek2W��炵̖�� 20260626003808ZS&������:0��0�ՠ
+��K�����v��th0
+	*�H��
+0i10	UUS10U
+DigiCert, Inc.1A0?U8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+250604000000Z
+360903235959Z0c10	UUS10U
+DigiCert, Inc.1;09U2DigiCert SHA256 RSA4096 Timestamp Responder 2025 10�"0
+	*�H��
+�0�
+��F�-ƞ��`V�+W�oQ��p
+��7�B0c2����q�����Lpl|H狦��g�M��<tM������c�7!O$��*�C���f�[dz�+�D��`�+,�z���̯r}���zd�6�8�H�OQiK�4
+Y|�:�p%w+q4�==��?�pYe+��#��oe(ʳt�;T
+Q�]٧p�p���I� ����$���1�N�z����\�8�(u�*���'nKpRj-�\��pـ�ì�I+�ޥ<?��Ikz,�r����d�5��4�K�
+N����Ǹ�4
+|�'���%�-+��)��M;��~�$�hD�Ul�uUYù'�U�\�ǀ;�������=���5�~�B�����v�(���e7t �mk�*�4���1�b�&�-�=����,��3C!x��à��������IDN�{��Dz�~X���u.OX�z�V��i
+$�J�ޕ�4ɒ{�"�ѡ�7!!͛BiЊ
+Eع�$��L�p	CUp�����y����0��0U�00U�;��1�����qcPC�a��0U#0��oSJ��|z��V�/�I��N0U��0U%�0
++0��+��0��0$+0�http://ocsp.digicert.com0]+0�Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_UX0V0T�R�P�Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 U 00g�0	`�H��l0
+	*�H��
+�e*��'��`A��D�c@r!���"O�5��
+�o�|�����hم��!��&D7�O����T�a��!���#�¼zP�����u?0�e����r&fR{a|�t�N�>�19�<�f�� �-�`��-�B���P��e*[�Z"��\Q?%�er�SL�Lޑ�(s�ym��l^�E�4�(lC'Ń��PQ)�n6|�U7��-�E�B�ל��b@œ��ڈ�}�<T���&i�%5wB_�������yj˄U=*��̓D�����r��A�'3�p�V9��"	�9ORJ����c���?��ޔ���@�
+�:�%�2`u�w�t�}IP�����%ً����p�q�#�eE��в!���E������-­j��uG�I����'qU��%CNhŌ���1{���~�z	W�JW�Ğ�k�"�SUdO���!6��
+<�`m���iƏ�..=�7eO����C�Ů�.�8d�榋��B�yl���5s�!H�j��g0��0���
+ǬW�!�.@C":I�0
+	*�H��
+0b10	UUS10U
+DigiCert Inc10Uwww.digicert.com1!0UDigiCert Trusted Root G40
+250507000000Z
+380114235959Z0i10	UUS10U
+DigiCert, Inc.1A0?U8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10�"0
+	*�H��
+�0�
+��x1�
+�Ar�<F��uۣFht�Q�M��
+�����,T�Cj�52lB���:s����^.<#����"����ڧ�%�Z�5���g�H��Ӫ��C��I����gC�����`�P]&G��-�>���a���n@��AvÄ	-T�o2�Ab�"9<x:؅pĤ�;E���|�JK�Z��|4^o���g`�7j�l�Ԏ�o�d�"��B���<�X�q)5U�ٔ<��&�1H�k��	�E�v�TR�K��x�<��h`i<��'�>�/h�O��|I���ƥ5�P�.�r��ϧ���5�fPJ�%�d1�q�K����в@Aq��տÌ	�5&���V���}2g���E�A�|�8���z�X1	���^�V��/�'O������s<3��.��;bOޅ��[��ʈ1�<z�W���l4�`$�"���f]J�Sj̒��C��F)�l�.�A0�f�E%�Y�>΁i��Z��J3fڠ>��TxF4�X�(它�_���)���k cS��]0�Y0U�0�0U�oSJ��|z��V�/�I��N0U#0�����q]dL�.g?纘�O0U��0U%0
++0w+k0i0$+0�http://ocsp.digicert.com0A+0�5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0CU<0:08�6�4�2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 U 00g�0	`�H��l0
+	*�H��
+�����=vq0��ȵ4��Їň0OÛ\s���Lci�]���Pk���3j�$���<H��K��~�wa8�!P���E�+I�y�������,-��r�S>4�ĸ���c¿ɿkR��|��7��A���+�Gj��{n��X���X���� ?�Ѷ�rԋ�|u5��Ӛ��B������6�T�t�d���	ٮ�/5�6�W�1tI�SJS��Ag/�1[���3�z�ξZ>϶�H]4M��.���ڈ�6��Dwj|��[�f(�}3�-��F��b
+�:U|r*C�����c�\�2��SL��e�v��:weԦ�I�N��o84s[�1��e��tr�F��a:m1&�v������d�w�iG�A��%�7���,�%g��̈=�/�&����>��X(���,��1�ȟ����!���yL���?�0��0�t-�zؒ�KP��
+�t��Z�Ȉ傝�V������R3��&l�šm�6��֐�O��\0��0�u�����-���P�@Z0
+	*�H��
+0e10	UUS10U
+DigiCert Inc10Uwww.digicert.com1$0"UDigiCert Assured ID Root CA0
+220801000000Z
+311109235959Z0b10	UUS10U
+DigiCert Inc10Uwww.digicert.com1!0UDigiCert Trusted Root G40�"0
+	*�H��
+�0�
+���sh޻�]J<0"0i3�§%.�!=��Y��)�=X�v�ͮ{�
+�0��8�VƗm��y����_�<RRƞ�~���WYUr�h�p²�u�js2��D.߂���t;mq�-� �� c)-��^Nȓ�!a�4��^�[����ͬ4@_�zf�w�H�fWW�TX�+�O�0�V��{]��O^�5�1�ړ^܎��ڶ��@�y�xǶ�ĵj8���7�.}���>�p�U�A2��s*n�|!LԼ�u]xf�:1D�3@��ZI��橠gݤ'��O9�X�$\F�d��i�v�v=Y]Bv���izH��f�t��K�c���:�=��E%���D+~����am�3���K�}�Ï�!�����Ռp,A`��cD�vb~�����d�3щί�C���w��!�T)%�l�RQGt�&��Au�z�_�?ɼ�A[�P�1��r"	�|Lu?c�!_� Qko����O��E_� �������~
+&���i/�-�٩����:0�60U�0�0U����q]dL�.g?纘�O0U#0�E뢯��˂1-Q���!��m�0U��0y+m0k0$+0�http://ocsp.digicert.com0C+0�7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0EU>0<0:�8�6�4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0U 
+00U 0
+	*�H��
+�p��C\U�8_��t=����W�����,�^��"��iT"���wm��Jz/-�8���������r�$�R�N�*��-V�����0z���^���CD�C!�r�H��˝O�w'D���Y��/���4<��Ǉ��L@5FjiT���V���=�����wZ\T�o�P=�v	h��o�� �5`� ��X�@cŘ"��Y�Uk�'�lv�o#-�~qj#k"��T-'~�:�𶇖�[�\��M�s���W�^(⹔1�|0�x0}0i10	UUS10U
+DigiCert, Inc.1A0?U8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+��K�����v��th0
+	`�He���0	*�H��
+	1
+*�H��
+	0	*�H��
+	1
+260626003808Z0+*�H��
+	1000�b0��
+-0k�8�hyR0�A~0/	*�H��
+	1" g�����Lm��d=aӅ0���7�bx����07*�H��
+	/1(0&0$0" J�?�,�\��\����gk��ʳ?�m&��4�F
+30
+	*�H��
+�#1������V��%�]sU(�$l�4kMh	ﲢ���3�<CB�ǝ���C��2��>J��E��0{&�t�W��`V��iǑ�P��޹-U9��'��U�#b�-�?�7��g{������M4��836�~H�X���E�I����v�T{ݛ��U��O<�������슭�W鱱aߚ.A\�6$B�l��2�ϥ���W��FL* �/|���i4�3Ut�f�|�T�(��o���q 2+����e�(�߭�\җ2G��FOvX3��U#�0:���V/֎N���z2��?��� �NK�cI���۪�а3�(�f�6�C/���7<��3$���	j�H��%=zk�N�3�]�ͳzE�ݖĉo]ȡ�F+T���5��/Y'O΍W)��\{���/���ՅDc$���ޗ\�V4p��观p���u �pF����JIV�in�vt���7���aṉH��3¹���.ei+ᖍd�
+�Q4�PV�3��!�+��cpadY��X`�����ϯ�%��[�_kSy�S���F9lV�G�����^<���w�3���8�yC�!�#���c/��fdC}g�[��
+�o��x܌�Iᗋgv������y2��l��'5��N	�`L	��Ӗ,XpH�c�eK�..
+�`4��V�₂�n...(b	Wp@�������......{�����|"n.~Y������(bIb���";����((��������((b((((......�₂�������������AN�w�EQF�n�ڽL2 R�.�Z���56uB5�UVTIW�$3�F-�m��p��q@]�s^�yg_�ap"mj��H�Z��<Õb�(�\�L��4��`i�Tri���Q����Y�cnUMb���Y���e�7b����NW�w�1���ƾ��{ʷuj�~Y���r��|iq�<5���֫UƯ��Z��>����*�c�]�@�$<S��BtnhfH�`��@�f�U�@�@Kӂ�������͛2}��T3c��1q���?Ik�sё���N�O#�TP�az#���1d�|G�;QA�����E�;\{��(W��Sv���$���h�h�b���<���
+G�/��X����r|o0~!c���l}Wˬ�:�_Y�Ȯ�?��޻��|nO�����٠�a�gCO&a�:�JfP����
+��
+
+Q�����J�Taʁ��4�ʼ.Qćag9�j��n+��a2���T������+Ba�icʥ��Ǣ"x����!��DϸV>�"K	O+)Cϒ���c9��(h�D���(o��}���-�טs	���|��XU��
+���'㭛Ki�%R���5�l-$_�;�Q����f�����#z�cM=�S/�~��!	����`� �>/�t/|�e	�AO�������׀�*10��rvs�G!{�C����	vB�[�Sl���q\�Z_Pf�7BC�W�6��1��urq���^}	͕��H�I[Z��Ʈ;R&,��Ԫ������D�V���\Jr���۲��V�k���M�P[_�\��}=�i't�g(P���ǰ�>����G���y�0�%7Kx9�.�m�93��;���2M�Td�4q��Q �0��^]5a� tSci�t�P5H����H���lh���[�@�fEh�ح�Ȯ9!hb3u4'I���&��f
+PaٝD�K/����Ƙ�3a�1WEw��4�rqd�)t�5V�R֙�Ge&�%r	sBq;�u�MKMn���. d\4"��|���ɻ����7* h`N"D	�D�_u8�	 �
+�X\��ʔ�U��G�UR�
++-H�����їa���
+�1�Y�����X�e��
+舓��&
+� j�	HMu1rF����9Rv̭��+�^M�c��j��Z�:��tv�hUɸ�z^�`b���qb�vS�-�ћX`���w�Ρ�6�aGzƢz�̤z�o��U�oj�3k�l&˹3�P+^BfoRƒ4�c����o�$,C�������b�	��|wז${Cx�`D�1�	\�F,*;&n
+��'�W�@����-h�h`z����a�X��#M
+8�J)R��Y�mmj�+�d~�̥qkez��4J�$W�Vi����
+ti$��e��u �X���>����#�
+
+g^0�X�E�D\��[�u~�o��?q�l����KW�|�9�?#���RKv��
+d0� y�d��F&�f�)��f(V"'��ٗN8�������HNi��,���!<�5¥� �@p%��m\��	OSvP�d�w�z�O8��[R�ѫ'��S���11�ڻ	qT��:�+I6$�7"�H">�V�TUS��	Z�J��Z�����vm��mx�퇞��]�mD��ul�S?c��&v�.��m��1k�髫]���Kdp/���@�=��D3s���.�"?6;�@��W&A�~ay�P�1 k���fVC�"ٌFF
+��`Is+5)��³T=DՅKkm��c�L��ъ��BP�c�&���Q�VyԽZ�83^X6C8�E=v�9��B>"S-���vv��S�P�$�~�E�� �0 
+	;��So����'�{�=ݣ"2S4ʓh�4f1<�o4��8^$B�0[D��!�b�6���A�͐������=6.��'f�׎��5�
+	2q�ې#zA��1Xh.PQ >�Aj�� i����	9���S&ζ�Z~��"�pޯ��2��۶���N8���)�lo�i��	�e��.:����ޞ�nNs���UorZJ��=j}�;��z��yy���j�����V,�םQ�I��bp@nM4Q_MpkMSsT�o6̊$�b�O�pāl�Д��H*5�14�1�p6�33PF2i�  ��p�F�>�<����+o���NJM���:�H�z��qX���v��j�IH�"�C�>sxԕ\�q
+�.�s͚�W>��е����H�?�Wpm�տ�]Ӈ%�=�;�*J�]p�D�Vt���juO��Di�g���i�Ш��`�Th�
+`|�b��c2e�je1
+�����с0.��B����ċ!� �!LK,�<MLB$�R"�
+�4p
+3Lb%Lp��p�D�`uQ �=z�P�MM�Z�l�;K���+$)����Z�#}��[K�kh�1���[!�n�hk���4K|�}��П)`(p�8�3�j��q|jnc���LO+�|*��AB���7ư�΅1c�a��P"aX9��f8<p�uԀ� ����1`\�`Q��ģ*H�yle�q��#����@�F�HP0�(H`�-/��
+��|HCkpDRn�� ��$3\�.����~�& �F&$���D��$�{�^d�yљa�	��^a����>���%�+�C�4�����{Ut�0�t��b��ǂSzO��j1d�r��*1H�!Dc�)�&aXD�d���a
+λCtDT�����s:nh�
+��ݥ8���rΛ��e/���KT|(D���F 
+���ũC��1�%i�j�ĵ���Ha�+�9������Q��"�/(��������efw9����e�֙ёK$c"df v0`hHg�xd	Fdi`d�|g�h
+~q�a!Z`�&dK�T@k�F�g���#{x4ӫg9ɳqb!+7&sB����:
+G"`�z�bУ%N$�@2=C�i�=��E=�'�]"�)e�'�Grj,���4��)+P[e=���f6��e*��K]�Sx4Pcd������R�._"3C�`T�C3G4L�?Ǐ�C�q+�8Xm*��C!�8Q�<��"&c��
+ż�jIzS�X1'B�<��*��aeziG��D��}��#DT#)����QnABQ�:�Gq�����?��W.ni�!%
+�
+8_�����p-����'_�_��\��@**a��W:~�b35��US�0�`� >�2cn��5.y�!7@J0��B���4��@��tٝ	�G7��xA(�!P�5QR�!�Lܪ�h9�JfDaLQ�.ߗ>�,��c���u���q���GU0x����p^M��3hd��l��ڇƙ�n!/�L���v0�Hƣ���`�2 �#
+��L�O%��AbD�B�2���
+n���ݽ@x��
+B��2N5
+y!�U#j,Oh�N��#i��Y�lzV8(��L,lx�E	qIb���	�SW'�+�k)�'�;0�G$6��@I���xla�0#t�ф7%
+��c!���&x��$_s���@�C1bk]-XX(K�C�����x@�e0�k�dI�9_�Ҽ� �9�V�7�eh�9�ᭊ���$�+Y��툞B,�)Q�������Z�h�mXe'/����we�r�v��?�1� Q:�s�A1aZu<�QQ1��H�9,8�%×����#@[>�
+19�>	(:X:��
+$]`��U;7r�Û@%\��n�-מ�)j�q�8Ĳ�p��y|n_��۴�����0��K��Q3,���Ϸ�yco\�:k6y�8a�¨&9�za�%�K���voK]�6���� �@1��m�4�@c�:����L�%2�0���A���B�̀SF	]:�S����IoӰ���_��UcF�q�� 2I�����P���ʘiֹ���j��7!
+��Fs*u%�_�Z����J�d#!C5���)����Ġ���A�k9�,Ø <��BZd����F<�`�B1F��N�̷�c�(��߷�F d��3�#�����N������Zs����U�3JwѬ+�A"b&e��*<"=<���������5��>��s���$ٻ�Պ�I4�kվF�Cn��kt�$������������������������������5 ������`� ʚ��/k��q`���b�?���$L6t!Y@�8j���,�0#�|7J�	��!A��)3LC}L_����k_Z����5����zj���V��q����������Z�:�̹����sV����1`�L*�Z����I0�0@(`yrQ�Y
+c<�uR��0��A�
+v�k�
+�'	�ЗX�_ksT���6�aki�uh���
+�������)����o���'S=��k/)��	I]übfk9ࣛȇ ka���f�>e�|��bY����4�o�GӯX��xS�������;�.^�V�����~��U"L�M
+;D��"��<��ŢK�iY�x�
+��(�0
+��ih�Ia%A�YR�#T�k����#�&����%ݢ�<"�D����r�ѧQ���$��=�G��0��rhv'�c�|�P�&�4;����w�pt+���ٲ4���w����kV](nNN˯�`��#Dڃ��� 4�Pδ�|�%�8!K��$iRmU��,0��d�A��e���Sn4�0II�ꏭ*Ǫ�u���Il~R9�U����k�/GT�?V�H0���b#D��1�)���FIqh�#�d=,#�[���@*�
+���`Jw�z�����ġ�qH-��'2+i�����BW�C
+X���`>e� "��� �!��IH3D�n�UJ�)�t��](��������,��<��y�K�-
+U� ᅂ�C(��˕��Zb%�*�n/'�l��[��WZ/b�q�Q��y����y�؉O�H�Y�WU��OS���5�A(N����X��(fXe��}�%�/za"p�r �4�?(���+���� �J��4�M�92Kܓ;E��޵V~�����91��c (��B3v�&V��ҶR�SL��s��[�#Ǫ�B""B���B�-��)���D�8>.U@��F�vk�æ`�sVn:���3qs`1�@�(XÃ
+�Q>eN �#:;���1� ��A�fJ$(k@�8c(w_�� (�����&����σq�JM��}-�	��h�X!"e諸��GQn���K���j�w���_�j]��x�\�Md�c��{V����*���RA��'K�֞e�\nb�}��B�#A��cP�_V��_�vV�t^��c�-ZQ�����9YI����
+9+��L)�Vc1f
+0B�X�
+F a`�����F7GtQJ@��!טd#HXR�����]u*^�MS�l�}f�9F%�Q���@�KKT�lj�6�|ywf�M"�,m�HP���V|.t���������X]b��̈�&%9�}l^W?n��UϞY�uBʡJ�O����g�ɾ�?"u��T��F��y���M�8�@%�	�a"4
+K.�(I;1
+����o�åh`" �2@i��]�#�L`j�榲ò��������-�@-����3hͼ�y��$80�\W,���eu��l�V��K��vԂ�w��Xq�kKw(!�$oX�ٟ陙��݂�F^��U.a�X�ij��մͦg6��&�v�ײ���/�=C���b�\�en�Qpi�3�:�t�:I�d��86�Y���0���>B�������;1�L̓R��?0C���E˘�`fD�aA��΁��n��")T\��(
+�gy�h��(�'>}ɔ
+M�I(u���t��9 x�w Őz�A���`�ZF��E-^�u����7�Mt��(�} nXr�sUm�W}����}U-�U.��4�\�x�f����7����8X��3�T��l��5�u�-��Q���&<2Ӛ�1�%&|[�߅N��&s��\Vb+Av8Tch�	�q)������y�Dm��N4'ɽ-x�)���f��t;�VKE�
+4BHe0�)-�z�����Z�$`і!I$
+x�XK,5������)�^�e;"6�R�Db�Y�M�"�a.A�s˘Q�l���{���x	!�&eP��DA
+YP��L�)0���.!�T�(M���QABѝ���I%��0%��2U�
+$�X�R]��"���7GY��bZ��r����:͡�����ƪK����a&���r�������������-�}������妖�+�k�.�t��ɒ�˜|���e�M-F�����^��UXi��������/��$�9�	���Q28��\0H4�{6Lp�GxC��Ƌ�2�3�DЅ4)D�u����h!�b���	Nu\B	I4������I�T�!9�G�(���aR�SV,�Em	$	ܨ��S�����a�R�T񋽶e�^XD�84&����C�$j����"�M�w�L���Z�Xʦ-��~4�zww��&o;9;G\��/���QQC^*.vq�S�c�b�"\k��M&p�?4�|
+b�
+U�S@ �tɡ�MR���AϦqr�j�A��$���C&��(�R�ԥu7 H�#�ä��(�7U*�6V�?�o���eke-�Tb�͡(*
+��`�I���&V�e�������4IM�z!$F�h��}���߅n�i�f5K����)�˛nW[�M�"
+oJ5kCY
+�� 2�#/7�F6+�1��)Bɋ	��@��P��� ��<\b��p0a!FRXc㣡�&T0`F�@X��F���������<-���2�ͬ&)z2� M7A��uq���)\3��|�������������,��8��X�:9-D `�+G����ꗫf/r�_?��}� ,�!k?4�=UU�������f�}�-��E~������HC;�T4yc?9�Qbq9#3lA04�O32�g&P8c�BA%PPS]"L��0���[
+�2��Ţ6J8`
+�L��mD�Hڣ:"l
+WW"@.a#�wi�F���J?��9Sk��,�������
+I���9'�^�{, �(�v����"��z�T/r�����^�IױyE[-�㟿�㏮��jiW�2rN"�rO�ehФE*LAM��1�Do̰�ÄE��js����g¥���(�D�_��|9V��! �,a����#x �m+Ȫb�������ݏ<
+�܋-�g���!ԥt0֖LM�Zϫt�B�w��n������0�y���wd��F�
+���`HxTY*x�*��kw������a��E��K� ӯ����-&�ڞ��ne�yB�0���g�<XRÆ�Q�'4�I���P$ᬈ�Ar�����F���9yRQ�9�[a��[Րz
+x����b-mnL�X�E�����J%5��e��EN�8���ik]�cXO� ȤL���0]/���9�/"�"`x9��B�F�Cd|1���4y:�T��M��O�L�h�8-���
+�t��x@9��a �`�w08@��M7F��0�P�<y�(j�5�ˣ(��+�y2��B�3`��#Hד�A��xp�Y��#�rD���)���Ȇ��>�L������)�DMeʡ��͔a�ƘT��?�<�[���6��i壨:X4NJ
+ٳ���W<��m{�fo����q}U�PԨ�	J����ｓ4^`���Y�d�)�4�_ޫ�3~��.��V����1o�033<�G�x�����A��������UL���@BB��Dpc����r&e�`���L0$��6E���ԝH��-s5X@)0�<��U�d��0�[y����̓X�j��կ�T$ ������B�㰶�;b�؄
+��"W^���6���J�����w��I�.x���j��-��2�	�=دR&]���{�KSEW?�P�Ԯ	b	17�P�hx�00�k-x�l�ec�9S`$^������Lk�Ї�N�[��C
+T$�
+HPA��UWG�et��������u�@m��D3�ɼ�(0�%6F�&��LF�!w(���O��X%~�H%�"���T���b�(J �&��,mP�k�*�<7����{N��E�1�G
+��������nrڧ�h����oPj�CG`2Zg�f��M,lb�Q4���������9����
+l[l�M�7���	�+�,h�Q�V �.���d@�g��RF4X�p@2��@��K<y�h�
+{;�)���N��r����C3�ԥ��:>�)f��Q�I��;)�:�)�C`�b6uR8*�?Q>������,\��M�%2�8\+:mߌ^�ai�1P��{n�+e6j�8�_��W��;U@23%$;5P����1$3&S��4s�X3��T,ȿ0j����雜m���@�F@j�BaC�0�"BQV(Q��@H�����=�@ni�B3g��%�N���C��R¡�(xߘL�,�ΐ��F�mIi��	@�BZ�s	�
+d\Ľ7��G#�v�"��<�\�kQ��������-\��b����ޖ���7���
+F���Њ�����^^�p���Y(�H�PQ� ������VD �(:%K�W��Ly��!�~�Ó;nA)Mb��0Pq��B0�4Ƃ��+DP9%�|����ĀC[sZb�]*���t�\�v��ݧ�T����}~RRC��x�,m��D�6$���Vv�EϨ�g��r�R�h���̥�҅���f�H����to:�����e1"3�<6��L5��,2;�Kp:����h�����8���!x����\��+�>8:�`�4` H�p�2!�G������q�>m�k�5-�E�-���P��0ߦ�8:%3�	��V�Do�-�p�)T��,1�R�{�Z��������]ٵ����z��1��l��Z����~yk-k��������n�;�yT��ڵ[��9����w��SeA���{�5���
+
+
+���B����l��	��٫d9�����ٮ���cY�����эdќ��PɃ�����$ћ���c���a�(��!�&P�0����b��2�����ً���@A��I�`�Y�i�Aq�#��8Jj��<�p�!��	�������005!�@$]G�u���d�*�e���c)��~�tww��:��{���Û0X0\�� ���[��$�C,�ʵ��oʘ�%�@���j�_��	tk���~��B(���k� ԪO������i<U�$���;�X.Z�Ơ�Y���w$Q�ԗ�q8�
+������h��ѝ�����Z�7mΉ5_����GG$��Uy�`
+t$`�%hq���: J��UR�-@���p1x�xсab0���(|@52_B�%���'��K�����<B�ڎ��
+�
+�Z
+GX˫�֠��h��5k��V;���5V�8~��	&q�l�E*�Y�L_��naI�w{Z���������k*���R�6�k{�?���9�:�ᬳ��^/@�.1vC Y3���4��<i58J�9�s	X�N!T���2�vH&�F��LE�(b��	e�P��2�/��olUQ��/e��F�#��&ܹ:�fчu�T�1ΦǛ1Z�Z4AA��-�*�C,8"
+K�� ���g����74x�`\D>���ĩ��M[@=�
+���ͼ!��������uJ2Y)����\��aB��I b�f`�c�&&�b�GʘgR�ik�mp餬��]
+Bj#v�3�$m�$��HV���R�Z��n�ʊ7F��oP�BЉ��1/N�ZbH�Й*�P�=�]���&o=�L�_��@�x��f�!5%Dl�T�&P����	���U�˅�*���Q{h$���l.a������ L��Tt���BQ�S6:%�0�+4a�D���IPO�[t$���P$6kp+[�^�["�$�I�z⩪ݙ˛�f�~x&�����Xa�E�c5
+���R��&UW��eQ��d��Q�P�����_^J_�t7�Ҍk����SKS?�8`~��ǎ$5�5ĕw�M6�����2x�$����ĺ��y%6-�/��1fͼ���FFK��^f���
+d! ��C����`��>DB���VA$�o2���K�J8�FZ�",H}�d��A�#s��Ӭ��E!Xj�w
+	pJl,@+��Y�!�2�N��.��I��0<@].����;�;ܳb�������/����C5���__i!��Z�B��j!�&�S�'@䁕F;���t��D�&BbA�8�H	��SD�Cd�/a���� 
+�P"�D	�Ii�A1��!���)%l��}���5O�b�"�\E'?w.��[i��_�����U
+���)�1icޢ�{��U���^!b�f��w�of��cC��|���1w��P�aF���Be`�ơIp���h����0�th��eL����̓��m&NaB�'�Ŷ�LpkNFhH$XX02�����f�nx}lAn�4���!��2��M����AE�r��St�``��i�@%$)��ڎUm�[��H�����.��_N�%����������!v,E�_�Ѣ�yۛ����e��?gl���'0�H
+�`�Yq�r��	&��BƲg11Z���M�����?�� t0��@
+�B�l��&�,�gc�<0d͆|�f���s�I�	 L�ï�t�!�8� & ��0 �ba��,��FU.}I��a�\Ņ03�(��!?N�NT��A0�\�D*)8L��qeN�o*���
+"%Ȧ�fR�l!R}��o�~��u�4UF��v�᪩c=o�"h0�X��0q��J��~,����r߷�pH8����ۃ�W
+�3̬3�
+�ei�C��jI�����
+\�+��;�1�F��L]��B2�aU^6���Ԓ��}�bň���d������;�I�����W
+���I��r\�b�x�1;~���Nud$��h�Z!��ߌ2�Ui���d]�(0(� 6	h^ �!�ۯW�f����t�662D�D�C��11��`!T1d�K�W�ި�m�%
+�FOE�
+�x�J��~�����Z��S�.�ר�"+M�h$=̈h4�b.\��-�C1q4S�Z7P��^dH�fY���#iR1�g�PFHŴĉ�����-��<t�ΟV3�~I�E2p��f�6�$�$̪
+���l��Y��"21� �M��B������d����VȄ(ķ���(;
+^Q�]3/����*n�p�%K� ����r�D�Kt����Ĕ��8L�:ڀ�h��"��%�c%���ˆꌋ�֢9/��D���z��Q��>���n��׏c���	�2xĤ�oY�/����Cpp�@�ȼ#�i�ЗU�\k��ӵ�]�s�in�ǰH�u������
+����T1�%�^��.���#A���\���8V0����a t8'(���P�]\O�X�v�"(.w
+��;�vS�Z��/��8
+�(%5d���<�Gi|i�X������FP0��b2.OQMU��C�O&������؋��-`�*�딕F�������3�y�ZW��.8bn����--vqv�:�u��`tB�2�\�b9CU�=�aҵ��㕭7h_�si���=��n����;:��
+a9�8��q�I�%�v[�i�αU��,0ly����J��Ņ�.�>"�r����Ė�}3I'�WJt�)u��!/1�xc��`�
+�Ă^&<�9d0��P��_�#<Ŕ�vZs�VT؟X}Q1D/e��I���&�ی�3Y���M����OK�(f��M#9-��ɬ��m�T\�C-��W�c�-�u1��%��AE[m㲚�������8�
+6H�.��=�g���}���X�p�1�.�TT6 E9ʥ1��>	؟L����SƑ��^i	
+�R���($�-pT�aՉ�C����36�@��<��O@��Z�!=~��-���b�Iq��QFh,�4��I�rra�H�N]����h�i��OUmhԛ�cb�7]��מԹ� �hgr* ��a��[L$��'���/��"�D=�&Oy�u�����?�(����)�i�j�Wd�2�"A��������][E,�z�x-()���ٵh�d5~�,m=��U���w���Lq@D��8�"� �hd��*�&,�`�a)!���d�ϻ��E��������xhȭ����Y秶}���/eݴDF!gp���)��(���3.$`H��P\	�*�U�,�b���;��c'pW$��[����o8�
+��{*�	��R�T4n��u	��e:dO(�����P�{o���4NS��Gn!�\Z�aq:H*U�J�ؓID����OΕR�<�+������iQI���*�AK��D��5,BBK��VUʊp�)R$MZ�&��P#!JI��jU���=�BJ�!��T@�-0ˊD�!XB��R�
+�~0�t�T�8�`�T<*�[" �e0bK��'l!QefN�*����vuS�}:���`�����y�A�0֋]2e���yX&])n�����Z���zOb�VvSM*�zS7E^Y5��Q!����t��4���v�G�RحfMn�U��ƽ\ikj�:ӳw���E��m��h�nY�*M�[Wkc�{���n��̹�lʘ�
+�ӌͳ��@�!@ ���0��"^���9��1���L҂dd�L*J���cY��f>�dX�2��24� �ˣ?�M�5hav��..e���Q��H01��e�r��$'.H�,�%S
+��������R��-I\q��o��#�<�b��X���4�OTm0�k���E��6+�	BSsu���6a0^�e�B�����d�0|`�ы����}�x3�����c}���-�0
+@&��J.�[#t������i_��x���7���������.���>���v�/�4�e��"#+[3�%�@:�Q���������������n��������������?{���H[sC��T����[*x����l���ì�[3�!u�B�.�\�*T<�5n
+�3G���YI�1z��&�����������4��.��g����_;��5"����v	�����a���J��*#=W<�+��N���U_wZ���5��+��ʝ޻/�/�]?f�L�LT��okgG���r��n�f�;�hj���mU�E���-_˽��D��������W��(�;�����)a����c>��"(��3u#J��}Y�~D�-�b���h4I��{�y�.lN�Ͻ�<�]�h̪�r��N���WBE!ę:8T�Ӵ*����Ġ����]��
+�)��� ��]-7.�S_���J8�̑��F�B�(̎��Dc_�*����Z�(&]�ZZ�Q�E
+������c��i�2�Y��!����YǺ��n����.91�3�BX�U&L�|y���CѨs��U�*��=�C{Y���J����╊& 9�;����i�)PJ�
+��g�����4����s���</q̪i�s�D���C���H�g�eT�T6��M	9��y�� A p;G@:�xgZ)������B���K
+BD@t��'��U��R�*.'����9J�]k2��mmf�.����)����驱鏪�\�:jzI()t�E
+������j;QCLZ��5�#3�7����0S��R����1`�~���M��4����ĩԑMW=Br��նs�#BB�2/(�"���Rf�.8P�T�FV�#.+?@cr���7	���^�\��X�u8p<�;/�F�2�iCl9�\&DZs�<@��"0��|�Tq�N�!A�إq6�
+2��1�^��i��q�7�����ЌK1�,��"�9!3��ԤF�
+�SE�1QAr<S���D��,�X��U�."
+�%8
+�&��ie���޲ic�}�H2l�b�d���^��Ӗ�����)��|ÚY�Ǝ�쇣%��ӛ�u�Ms�����=bD�c`n]�FJ7�Mb]|o��â%�0�I����z@]C̰Y��%L@��a�vC�Pp�Y����PO��8��&�B4��$�6p[)�f�)���O�����ɾ����7vԺy�DY��"����΃�	uDNaʍ�gA̼����i�������1�d'7ɤ� � �Ȓ�F��T����$��Q�F�}"��j��0��;��+��?����F��	e>w���| ��[)g��X
+�xH�v��ٙ^]Jff�f$F0�kb�R�T^wQg�oT>��(,ӯ����C�6D]F�+:}PX��3�?A����x�G���A�gZ=V��o����n����Ja���b�U�홵rϖ�w���Ո������k���D1�����������R����/���s��S5���0��W����?4�u�oz�R����
+#��Uvb8r���ώ�h!�I���I}K&U	��4������0���l�b0NX��"{V�ثd𠏩-���9'�mʂ�Z��������a�:n�-�-�&�ݼ��"���оpӰM��9t���ǳ�J�u�;.���+_u��d��������W�?��N�ڄ��X-�WS��?�g�w�����q��@hA1%�2!>�2# 2Ԗ2,'020�1�SB��И2�4 �:#�~�M���Y-2����٨�v�B����ĺW �wF��J-;�Q��bJ�,~�_�G�Y6=aE;�Zj%�$��<z�Ǌ��Mh����Fx�^�3E,�Ah�A�,Kǡ0�=�<|z�v������
+��Y~����q�k(VN�&V	"N�b�:�ǲ׬�{����ݏ1�y*(Ƴ3����>��0�&s#
+
+�K�������٠�O��0qe'��9�D�Z	���@�K���,)1��xɘ*����-D�Sm�d��u?	Z�����i�<�e�[c�%��1y��b��ZD݋�Z�i�4���is�HڦrQ6(c�c=%/��<`�.���֣P����u�J�2�s�+�N�6)#��O/>?���L�[�7,o\|A��q��u6-�v����<��א�xg7�Lk�
+��c�W�� /2��AP*���^Wݏ���:w��jȮ���"M3��8��mjRx�xW����9Y�.�zA0��y�Hz0~���R���5θ�/9wՉ+�F��AO0?`���2���y[�?�'~=�M!���8���Q�����?��9u�l�ͨ��yjL�|�i��$����.���?A��L;< (±����ϊnZ�K�m�(0��(��$^�*��jӷ�	4~y�����qEڵ�R�����g.�����3&M���&ToR
+%�)���z�t��u[b���l��O㬐�	ȱ0i+Z�D�<Cիi���hj�*��%+E�@.K֌�̒QCl?���kZߵ����~��Z���mגd�")�t�:Y�AW�!��!�䙆����`����<H'��Q��i��
+8����Nw��BZ���аA`L�}SR���"��i��M����k,��q�O����d#��G�V@w
+��s���I���ڛ����E�K��T�b��kv%=�u���4q�Zi�Z~�0G�O�?ET�BӔ�W��Z��}bw�+}���7�*7�@c0�6]X�jd��+0�	H0#S�x0H�
+0LN���;5U6���:^?,!+�4���$�
+�/�p���2h�w{Z�#��[ɷ��������O/i�����0�%�Aw���eLVP�3C�����:+Q����;E<�O���IM������r�L��51E�QH�a-`Z���u۞�5:r��[U�~�3h/��u+���3��z�\Vd���?�j��
+"�0y5�cb�0�ca0O�����`5�PǗYb�n�5�[v�F�Y�M��e�Ac=6��2we�\m:Cr��G�V:j�c���0,�S��-j����~�"F~v�d���I�@L�5O�h�[��O.�˭��,Z�[e���]C�k��j�Y���sPV^m��;odM��ޗݥ�c>��Rh~��SJJ�As�*3�Ⓢ�����-@�@|`�v`� ��N:�,<�t8u��̻<5V0�gC�j�73�*\Q��1��B�T8Yp�:������yeOa����%�19�xj�1@e������cba�,�lP�D�$&�f�1��
+M<���l����k>m{9���߿s�g�)��׽��w{�Ω� ^������ֵH��o���
+�\���SK�N�n5���s�L
+�t��a�PP�73�o~�-8�#8=�"q0��uk1 �
+6�s0	A��pi�������Ľ���L l��IBP���(.��P!��,�nh�e��C!�{�cb&
+��\B��"P"�M�(
+�zZt�
+�B�X釁�ل�ш�	/G�!F�7�d
+:������i�4u*5��&DrY�3$,�eZ,U['�)S?PTnN�")���e����\�`f̄ ˫52V煨@�Kug�y�������A�U׀
+�:��9���]v �K(����G.~ï٪�[Y�����;�&eP�4ΰ�ժ��Z��X����������������g��<�Ms��P��0`K6�o���6ΤE�=�;�x�����lAH�EB�����D��b8F4�n6K�Cr�̊�`�^/64;06sU�VR
+��� �����΂�n�E�]*	:��59�gI֙�V�}�Og"��L��,�T�l@��
+Fr�#�"�zH`@�	P�]���]���mڍ��r���U�"g��)B�!
+k���1D�������\��~�V�,�!��ew��;�F4_>�8���8w1
+��"(�֥k2TZ�Ȋ����fW��FO�Uӿ|���ya�����M���\G�L�J�TΜ	�󴆖�"��!���Ĥ�uM��)����Hn�1@�ॴY厪��N�[���xN�&���-�OEήo�X-l~�Ʀ^gٝZ�e)��%"�5<�Њ�����W�)栔y���"ʜഃ�B5I�f���
+�iu�Hy��Q�!i��8p�
+��L�а����8P��@l���x��	�'�%6�
+6E'L���8�!��'-�Iu��V��EQEL�pHt�^�HZB���ˠ�3Z{�1%�P|)?&���fq������|i�-����Bؓ�U[SE
+��Yum��4ǫ�mx�Z����Z��������v�l�[��ϣm�L�g��gs��7�!M��!Q�GgS���K&�LF���
+�]�CB��F��\� y00�`F��o��B�<�Fb��d���
+�Zl&�`��Y��A4�������)KM�v�W�f�ܱ�g���7Xfm���^�ܲ�Y4���=z,��1ZHz��=nf4���^ۦ�*�vs
+����p�A	if��oTa$���Η�PE���iz��hl���}�
+���Z�L������z����	Ns@8exȑ�F��I����-bg3v��`�EB�	gB
+�`�C�
+�f`t(y���4�as����(F��\�k0*n�8�3���4	&�Fe1��/O
+W`qW���!��p019�	���{ٖ V�s	ώ�,��.�l�{m��N)�^�f�m�i��oM:�擓���Nl������ټﵰ�o�l��C�Ά(0�J,L�jM�5E�y
+	G��e-��4����k���H �,�D!E�hb�֖m��`�!��'B0��|[����������9N`��5�&�̱�f�5���MoOF���|�	��+���O��������>���
+!�PH%'oPa�W2�l��$��Cb���H��_ѭ�����6�?�'�����_�������w��P�T��[_}�7��(!�9�/Ƹ㚚�f�� ĀM�va�I���<�<�i �T�0҆��A� F�Ȇ�H��d�`�o^XY�"1�.�BP�b"H�gm����aT�M�ہ's�B'����I$�s�9�����9*D����Q�R|vT;$#�KE��lc�aԒ�!��0�_P�Q����R���������<B�'ckK�>0�r�P�	��fǕ)�	K��+�$�
+��K1mf����X��#����ȸ�ϨrfAc��L{<�H���
+���V+�&����쀘}�4��/���f�̱�H_���eˋc�V���$�u"ͪ�	���%�$�0\L��P�_�D�b��M�� �K16�/ҖP��������������<�~�;�P���v�
+���C����n ��L#!s	�L��?��#3vTHA��jM���vĤ耱V:V%�,	����ɰ��u�6�6ӕ"���fidk8dH@�
+B�F1q���r���zj���ABx	��GZ�uq�����I^!��U��8��9.P��5�IT�(0O��	�?n�l8���ֿ[0VJw�'�y�"�\�����ͩ��������l����xdgK�$T�2�3I�43"�;�Q#�'B�pCP�bOgrl|�/�`)g@�F
+N��*	����аbP4��B
+d4������Y�7Ne+�A��̲��+&\�Z�Wyg�7��ylJ�u^�������:D7$LB�O0~��~׉ASBS��S�:j�Ur�NҦׂO��@�2�^�!�X��L��a Y2�+�R���\־��c)-
+,4S����x�1<��yC���Ģ��b���L��2��9"�sb@�BM߸כ7D��"��Z�)�Zj�3)D��C�tH0�r��h��){]�'�yf�(�2(�(6C!�f�};',v��@l@	��������~�J���٤ַ��}���u�s��]��EY�m�+=7�툄(��%�=�h��L��$� �rZ�%q�	�'��G`�b������#�"��}d-�K�cϪ�Ɖ]!Q3:d��/�h�<�;�iRn�Ĕ�e�`�ZeEb�V�߽۫�������E�=M�|����1z�Bi�}ߞ=d�\S|�o��iֹ���QtБ��C�@>I���i:���
+)�023=m0l5Qk0��0E�7c
+423��L($L#	D���ZL��*�>1��Ȓ�4VF8a��h£8*kt6�DBR!���("�)#
+b�*�I�#LH]�Tɜ5t��u2A�P�൧�C ��X�j�;���3KY�p��-vnː�.��9L����NQ=�tD$�A>�8Fp3!2�x�]mX 4J�8Cg#&�?�.L��҇P����t�G����$�%���pLe��8�D:h����'�P�J��ͬx邂o͖�Z	�Jtv��>�
+��F,�T���LP{P��	HeA\�0C
+S���R=)�����)B������CS�$�\;�$��&q. �:��Ðe���z^H F��h�=͍sU=��B�I�i�u�i+&�s�:��{-����eIK�s���u]#:c>��)F}�:*�	�T��
+O��*f��"k��p;��73���<V3e��Q��q������h��
+̰�d)7�|d �4&���R��Y���!�%p�C4Kr����Nt�Ni�Ϊ�
+i/�0�|No:[1��@T�T�"J�8�y,2��yE��$�GЮ�K�Ĳ0���+7�w�w���Z���{��o�L�7(�qó`��+%M�UB�s0b��ko�֛t�΢�&��y~�ALC8�ޏpdZ���r�-�	��Ä���+�,o\���x+'�r.���NQ�3�1E^�Z��e��\��0�G��u���������6Mz�F��
+�&)���e�1D�ic�]`Y
+�	�ޓ6R �0��1������S��DX��Y�_#�3��_�!b�(�8�~]�2��X��fuP��>�1�����\[1�L��ɒLXh6�|��� ��nH11 ��L^2�,hىJ� ���|e8�c<(�4lM%?�B���ʤK6
+��T*� �
+8��
+c�	8����[�,"n������y4��S���V[{Y\z|
+���;��M	!��g�K������k	El��){���KV��<�y=:"���l'_�)�Mٽ���L^�o�jp�5�����K�Y���2b�gc'b&::t��<\|�Jnjfprd����4j�hBb���N6b &���a��C�9��$������D�a˪2�	�2)Q���2$�fjw�o,av��&�6�������	/��V��熑�Db8vP�n'Uڵ|/J`�'ޢ�N�G��(t?���LLTh7:�8B@t�F�����yk�,a-v>ɼ��377��5A0��:�cY+0�3;(0Q����H82
+0h�iB�p�0i��2�C�5Ca�A�b�	@ǀ��������d��� HfB@�P�4��� �(��H�	PY�NbYZr�2U.M$���QA"��5�R&�E%/\�&e�k<�j��eSGs:m8��Ш̳jy�Rj՝v�Y�6�#1��8�1N9�1�87��9�4ȝ4��2�08/6,S2�U3��?�)9�A�����7�d,�R<˚�>@��N6L����탘�w>-�K0hJ�@¡���N!39li)<�3��4t�(�r�8�C
+p�@�C�(:i��BP08�"l�BK��P��TT{Ȉ@�G�`Pك��˲"�Iܾ�W�vCJl�>�"(G�'�%"`�@�юRƓз�jp`�)@�6���x�$���jpq�[��,��f3���
+�Z��.u�BZ��6{�{����b���v��
+�\��?T����3�8��������3�r�=�a�d�#��2�!v�$�z��k���;����S���Y�2�	2�c!��ٓ��`؀�5�:�@�
+��B��I
+JbI��
+g&�j�2�	��/3'L־��$��I�sbU2��K��O��A�X�b%%a�(��z��t�4w�R�������*1�.݀�:f�9��m8���dQ��uA����i�P�!Q��˕��QP-;��J8ə<Rd��PȰ
+ 
+�D*�4�^��lo#ut��Q��=-��hB����-�fڹ��i���ʻ���r�$ 9}N9@���Sv\�^'����5�o�]���-�r�q����;!�����������������]`K�$�
+N�R�zZ���$["ݩ{*qR<p��MB�0ߨ��@�d��<Hq|l7S�hb�����T�r��:�R�����V�J��gOo	�v�HuSA�K�7Z$��xZۧ�/;���^�+�똸���u�����y���cxDg����^�������@(
+regg@��V�W��i��=U�I�^��U�c+�A3�d'hq��,�a$Q��B����ma':=���'�X@����
+
+� !��:P�9�eAC
+F"�!6�$-��L+`�-f`e�c��(ĶUU��j��.�B�31l�IV��7��u���03��� �<�s�b=��&0( �I�&-K�2�W+l��#�iݘu������+~�����F��i{"�q"�0�������3e��FbfBH��&�j*�
+E�M(RG�N��!t�}��t򖗸[��1���솇�I*�:�.)h��xմ�[5�2��M��<��,�0ʀ �{��L�O1.B��t$#�h&�q!�-E��;�QP��o;ތm���ф5F����	L�VT�2���K��!���)�֟�t�ثK(�3~zQc��I\���!r�g+ե[��n�5�����X���2�5���������Ğ��q/�$ڊ��$ʵ�9�6�Ǜ���[��Vy[�9հ�R�I�唾I�p4�`0�
+ *{�6#�<�gD�%��;��c!�3�70��� �-E(p̀̅�͋T�3��f
+32��GE52���hZ90L  ��D��t�*QA{$kuU�\3� 3��F�\0nh姠�bf/�æ�����Ў�G�$Ҽ ��SM,ǉ�<�����kt�9�Rjޭ6�5��N(3�c*2�3UC6v3g7P$���X�(𣅤ZW���ܺ�(ab�pte��<PbA�C~eXe�y�9�銓��ec�� M֖)�������|V����y����s���������ah#�x�uƘ%��������A` v��4��(.:)$�2�3AD����F���I-B֬�����Ķ�(�$Ỳ����3�;(��G��djvZ�L�⢪�d�`�ᙰ��/�?/k�+������3��Ř�
+ྊ�Ӄ�K��ұ�S��/
+�*�ȘT�^�m8�<6T1a� 4�(A�@ ���-�ZK�"(c�"p*k�eD�߂�3��E����q��q
+��m�[���������7�=��l�����.�F�$B��Ϫw���q�;	C'�ؤ��r�������w�I;��_y4��:M��|�&z�!�ϵ7?���������������������������q���g�Gym$��~a�}hbQzf���ޖGl��v@��F�i��[�~
+����^�ˬ�!4�ݪ���@eϣ$r�z�-(��Mj�*gp�2�I��.dLA����H692���6�^��a:9v�f�����A��R��
+�����yZpU2�JŢ�4��5#�Ik8���:i�l-LC0�l�$_W�9rs&a�%�n.�M_����������*�RO�>��N�q�8MNZ�Gbj����1���[8��Y�#,OPj0x�5�~/�t	T�ȇ��7I��iӜ���ܞ������X���i#�n��d���a��
+y$jEu$"t�Xϓ�d)FQ&
+er��c Č@L�		1�H����X�
+4�1uJ0�7T�=W���p�����iI����Dՠ��R���
+$\*R��m��4|�[t٭��V�_#��*�\��tt�Ip�^T�`J����[z�)��@˨�,G��(.)H!.P���9m9H�q/���vb���DB�D���r>����V@�܊&�Y`� T*����5��-?U�z�a�j���x0ѵ�1���M�eX�Z��%������e��7 ��5p��>i���9�~��m(�@��(���	�˞�X©O5�lzn���oK�DQ��c��P�J���#$M��_v֯�9e��*��Ƹ�=8�cB&Ӈ��-]�*Hr��:p7	(�A��D���,˶9ѣ�}�W>;�t��|cE^�s�&o�w����w�	�~@��_��q��&����� MHA�dFeN�Y�k��H��6X�ڇP�B/��=@d#j�_�
+Uu��_�+�*�P\b���f&N��Az��r��r��{ֻ���	O2YR�Ŗ_6�6�a2�R�H�χXЏkk_o?@/���D��ݧ��/{@�)��@�pA���h	���7dt��̯aaÃ
+�ґmK������_�J�0x�@�j��h�ӌЇ@�غ�X|PV�2�1���5���*�:�M�*⯝&Y����ϡ�yB�I<�:�2�(5d5*�A�_%�8	h`\������^�t&k*��%O�mȺ���8g�P�>#|T<�(/���Xc���FHY�X,h�tQ���/������"��q{�U�b0	q���eP��s�$-ՑͿ�p`
+�-e��#�����c*�kd�:x��h&a��+�S�&��f����5�k#s�.,8��f�UzfS9�!dT_i�Z�6ܪ	���Đ���;��1�ʅCL��� b%�BQ�>�-)c0C�ҡ�X�1B�PB� �hDB�3������g)o '��,~`�
+�~rn@
+��B3	���kCb�:ϱX<k��/�J���č��]F-$xʧ�(A��yu虉H��"Q��Y���o}za���(�d�lh���2+������c�!�6�*(�r��U��¦�`qd��WpҲ��`ǋ/#�� H
+(��,PK!\����Ã��+@��c۽@tEd�"�T�{��M��E��ϢEuQ3Qu�Bf%����⌥�e���cKd�H���s��a?�A#�˽�_h��+�ˆ�:@78R���C����[�韭VZ�0�8������bf~�"������k�l��m2��+;�������v�l����U�`����C�+t���oE{:+
+�����Q�����G�
+��P�s�G�]�J��i"��� ૌŅ�6C��@���!�2 ��qA�JmM��¢�@M@��� �2�����ī��UmPl���*
+��P"¬�R�I�|���4
+6w4���NLl*�ڭ��4="������PUcÞ�qtq�S�ŬQ)�GsS�*�+�no��������Foӫ�i�K�P���*��-@e�����k,����vH�|�Ϲ�-���a��b��J�jp�%�22�
+&��$H��~���(�Ymb���H.�)�)�I����R[үX�C�1G����7)�0���~'��Mc(��B@F��i���?��ڌM���ݏ�|��6v��
+���S�lam1k7]CX��=<y!��˹���H��ej	��^`�M��Ð̠$����`H����N��d��^\K(146c-B2�s$&4qs�#4��������1(1��lzzz�d�d*j5�oK^Nx�k+��@������%BM<�
+ʰ)�&�?�����h*)����l]p����^��-Q%+1�j�U�r?J����ɜm�#o���	���BI7�\�����,vsChI5�|l�ݧy�K�
+�S��e��Y���hb�����O]�N�G
+\KN�(@t!�Bp����@c
+0g΍�A�`-$ϊ���LZ�hŨ2�O�Ӵ<�(�p4!�vfI� �D`͊�N�&�RV̾�V4�U�MV���I���d�:���$��P����W�zճ|��Ļ�NR��ΘGD�Wz�
+��F�n����/N��C�������,IG���p��(���0zg�$�K a�a�4~�'�d#d��$h��xa��A�A���7��;����!x�@y�сƴёc���A����1!m٢7�J�����I�8M唋2g��#Q�&�<\�5n�D�z���݅S������̾(�>kk�"�5�T�y�Q��Hz}U�]
+?*2_���TV���So�rg��ʪ֊��e��(3 ���x�(��<yU��'>���V����-u�
+�+V�ށ�yMTEN3L�&sP!i~�����1<�#�ǝ�Y�9(Ĕ�!�r���H��fj���p|��vb�����w벫voR� �捑͝�4=���AH�K��
+ShM��3m��Ԇ�ܭ���o6����2'��x�3����t�/��u��K4��Y�!�"l$+����B����]���2�#s����b��0V"
+H�E�������b�v`0	|�0p�1=p��`�S1�N1�p�}��O��<̤�B�(��������:-1z��2hY��i��r�bގ�������~����tۻC�BX訚�������5�3�8H�\���|���?�7����~�L��4�����%�|.]	Y����LS/�'���VYDb�i������ �uPǃ���J�`�&TPBc�,L�PTeAƐ2�h�8`a)_�Y�	����3%j�	)��E����Hd1�h�1 �JDP��!T���"��>a�cv�NP�-�J��e	���!�u%�����u�z�Ϯ1���G�ff{&�w�q5�N��t����.��9[=�(Fl��=9��+�g�8On���ըk�;}��2�8b-�Y�"R+Aڒ�� 4�%�$�Q2�e�C��0I_��C&�xT&BWm�۾�.6�3zhY��xLe������y{GLe��e2g���	H@�D;]b�ĳ��� y����*.X�=y �!�L)�k������VA�fuO�93��ה�������U�[j9# <Ik:�LQ��
+����]U󦈐�H��O%��=APR
+@z�*[	zT�K�@�"��9Tĉ���4�2�bHj�1��8�DR6L(%����c��%����\\�S���p܂�t�v�!��6��y����P�!�R�A��kBqűbշ�����n���d��kk/�U�gJ�+��)B^���	��ze�P�8�~�Er���S�8��"����`�W�'^�Y�n*�"(@AC�H&He����ϖ��e`L�,�����'�2��,�3%�+[aRL�S��o?���o��uҪ|E*��\�V#Y0t�/<;��hО�!+���������E�>�8��(a��32�˛��R`��q}Xrl:���l!j-�T��G��~ĽX7b�����^vf�)]{$��m8"�	@x��&$�N�BS'��q9c�@��;�;"Q�T�d�u�=�O�=!�rV��hG�d�HT��Ba�.���<�ʤ�Ā&
+^�	N��*d�3
+���0����
+D��.A��q0NS��eLs�T(#Eiy�&\f<�P�q+ ����.Od_{u!Զ���Ó�
+d�a҄��O�J��:Q�1�r�T��(�9����?{eD綅&�*�	��j�X����6���cl��D��$*��T�Lz\���i��P��,��
+�]�ta�=��"�n�����rѾ({/Q�0��=��H4��AO
+Ī�1)�
+�b���\�yD؈������͗8�=��1����osTNK�Ī]m�;�
+r<L��`81)QI�E�uc�(HK��&�9[��%Th�`^��
+b����J,ͩ0���ޮPI��)z{��	٪+�D�qh�
+90�S�c� �Yr|�ʨ���H`�*�(Th����h��L-Qf�ݍ�(=f���"�d��R����ZSx�Ğ:6��+��(S�4?Vz�=#��/Xݎ�7wru{��͉m���T�SK�ieV����3�)���^�1E�Ծ,*R]�Ƶn�)vv�\���;�����-��*�¬��9I�u���s:�?�3�52����Yʷ#6z�=ow�� �
+Æ
+
+�1PE7X�	�Pٸ����0�����$�T0@}=�ap	�
+�	H�Ή&_`�m��
+��������-,<��%2e&��ZA2�$1��O���F)	|�\�%� @`Щ���8� ��
+������{�U]�j��[�
+z�׍Je to��@*L �㋘�@@i� �B�CۘV�z�v�`w�u�C��	��wv*����˸ן����#���.��l������m-��D8V��� `$go�������hx\bW�!
+����F�����V��+��06r��h�3?��������������ƿ�������������D*)04lB�����zI��ON��Q�	%�Bo�
+�`�M`*%��t�D�_��F7#n������(�;)Ǵ��ݽ�ܤ���C�\o��^��՘��U���)���9,�������j���k�RRU��x������+N
+99��,)c����e[Z�b���Ɍ�cb��3��{c������s{����l�@�a�hX�
+��0p��P9Ĕ=�������,�9�\��IdB3�1f0I�a��%�����Y�R$��
+��.aΡXf��<gB�
+g�(8�&#cB��l1�Z��Ω������ �;!�������I���c��Ff"X<"A���I� ȱ'�kc�CZ���I��,�\@�&`QDC�!8ԡf
+e$*34�2S)1׀���[�T���gj�F���,~�M4bF��o./�r���7�|A*Z�loj����+H��ė�![X���{k����&�՞7Ro�.��>��'��z v��� 8�۳
+?���M$z/�yh��?$�gky��cAS��n\��-bQf0�;
+��D!�]���Į��6
+�#B2�V��Da����j�JJ�%ͅ*��ΐL��Gu|�(��pR'(2C)�
+�z�9Kx�hzk�^)|8��H�����6�<0�N���J;��F3�|5*�-�[��۹ߞ��֥2F�v�^c���չv�-mc[+��wNj#����p���U��
+�K���r�[�ü�?��_����� �(�I��
+q�T 0a�A Z5|)`�H3%b		5Ijs0B�2#nP�K��	n��"4�͙��T���Z�
+D�8@X0��1�+&4���0��-z����|oT�p8A��'S�n��,�����?v�\ÅN��Eq��
+q�i���)egr]$�ٗV��h�]�\�X0g�}Y�TĪ7v�i��I�Rm�D�����p'�(���)�3��g��b�,$����Rq�
+a�֢Դ�s9ST�	���?fP�V�!���چ�'vF�<�qJ�_"�������������������������������%1q���A�rԽ%�X2X4
+�C	!S�`
+�EPL�`�Hh.��{'S$�v)�}���M �2�� �e���`�5��<hK&�BKZ9�,��"b#�&hHvR�)�I�yTގ��dm�c��ě���f�R(��Z�g(Z����I�T^���sZ��<�Z��v��fq��ܷ.����9���;�0ǳ��oV�ܖ[jO^U*�PK�9)�����>���42������.��;W;����O-�;���;������A �k�OK��0ĒA�-��v�{zY�	]j8~f�ȟ����]B0������T��
+�.+��y�ħ3��`I}5
+���r��B\����p���%�@�	lQ�=���\�r����@$8���COqA�z�a�L���0��~ֺ�W/�,v`h��AR� ܲ¤Ŀ<2��*�U���'��(�\��-P�^_��˕2��no�5����;���N딽��v�5�)9���Cr2[@�$�8�3��_L����/��Lnn��yY=bH�C�
+df\�}����Ģ��u>�H2�s)H���q��Y�'"�b|�n|�0X̖iw1L��)�X���L�b�D�&�^�2�w�X�9��]�������z���zf��b6�Є���Rl���9�_�}�����R�\��n�P��U$43T?S����&���C�h�|_W����ڼp����ed�#ǒ�������5�Q�3�3�蕇�Y�3h�;L����xN�:�?QGJ�
+�2�1��6�>،3�=���p�ibR�G;j	`�K��`�@5,O��)a�R��B��a��R�I��!0��/<�(����LM�3��}"f��,͠i�y)��R2�N�Ͱ��e{�ӌ%�%��r�?�E�樂�#�7f�0�1'��̵x��5 ^�B�=�p����q��ـNI{��M�Y	��+b,��<������
+A���əh>��v�$�0�(���:�L.N��N>NQB��4�Bj��hI�Z#�>Xlr>1L��\6��lV"���S/Ca�K2	k�o�]"��#s�qi��5c�e�0��I�m��e
+��ƻ%�tCb��@,�|��
+v��`���4Յg̝�H��������uGM$y
+��gU� BF��T��v�����$�.u��s��S6��I��sJ�'B�.ND*B���,ET�4}���	)0����0*MP8L����3܆6��]���i�Gѳ�h~e�P�@.:�{_�	�J����~��(���`�qu�1sSRC�"�f�K��[�ʕ�&�Z���I���$�2w�Y��;xa�L�F�ko�	��K����H�WLJ$�y�����+Q3��$Q<�0�B��'����'ZI|���K* F���J�������-��l��huiA�Ɲ儗�* ΅*��z�5*�:��6Q��y�܄�7]SQ�l���}[`YI��������M��a��o�2��A�dOP�ec��>^!��!����+�Ec9,0wJ���a��y�xk��Y�ǳ"q$����N���B�!B,?@������ٷ�����d*�}�����9���x�w��+�:p�Ŗ�%�;�,����&��q[�K���5���R���F$��d��Jp�!�P������9ܥI��E
+��#-aT�p,	����̰�z���s��mE22�VL�c��z���:X�gl��z��U���ؘ��K�mRt��~[{�껤�[u���Q�`y��31�]K�qYтr���䞩�g_iK��"°_�ra]�E!-��X�D��g&�Y�p�yZ��Y�hI<>D�&tA];0�E���,r������#��rD嘸��h�vV�4^Z�u�Oq�5}�1�.l��BP�i/9��������SԽ*���J��d!��9�*������NW�������UA'�J�V�ܪ��y�T�^?�$�$�k�����"a;��M&�I0��T���$N��jB-�DWs4d?K�2�*"��/���&2/)�hS.Fzse�[Y�ڭrV�f�b�ˮ�kZY��*Y���f$뛗��fi��tj0�)sX>l� �`I�'��m
+Ǌ�BQt�	`FI�3�< !H`N��),�j�d$F��@��BL�E#�,*#�h�$CʆA�2�B��~U�RBkQy��Ivo5f�g�ѥ{=�S�0TC�(4s��!��=#F�{���;���҆P
+7�hL�
+�<��H�9X��ښ*JCs�6�1h]4��m�"	Ș6�8�ӫ�1�GH���=�O��Y2(�M�̼����t���1'�v3�	����TI���E"�[K[����Y5/[�TE�mEsa�H	S�h�dܱ�+7���Up�)�u�kp�M��{;�(EX��ØN��b�>����COŸ˻�=1��wE��R��P�)]2Q3�K7j4r�HD���\�j2{�lW�"JW|�ۅ6Ht�BK�9$RD����^��'�Kr�������J��c��]M,�p�5�}K��ׯ��=��|��>|�������MO���;m7�{�S�;�?;�|��߯Q�y@2��L��1������!���4�x��"?<(��Zz�_�&�ך�f9���S٫�c�ru�B2�,J�0��'�bjl��HM-B#],�Ҙ��qj�{I6@�1ʙ�;�CnG�m�65�8�L,�J�=K��5��4i�{D��|��}r�!�벻||���Ĝ�������ʏ<Ŗy��O����k��ۜi���|�,���(��ݪ?b\$�"k�nDq��"ˋ#R����� e��f�7�KF�EI��ĭI�b�(����5�oԣ�K ��
+F眵�g�բ��:��s"�ul���9噭j�Ĕd�7��ā����z�&wV��l�]O-�1
+K,�A�=�]��NYR|f��	�>L���c����C�t7r"��4�2�z[{l H�%�3ô�[S��T�n�%I4
+:���|�a*��
+��P��G�j�Ll�˔gW5kb����&����=90�����E�dο�_y�e��l8Q� �R�H��\x��V1;L<E��6dXF���%�2Lj��X@"�����ajP�L�#<)B�֖G�>�fIǛD�7Bre�F�qX�I�<���ľI�Ȍ��3�Ŕ��RgjD)6����6�O�$Ka�=��"]8�J�I�	E2���	�=B)��e�I�&�UhR@F��NY��cutWz�U�:���
+���,�)���W�S<�W�m{�͌��~K�ʹ*�Bqv��q���6�����C2�i&�Bъ�Q#^�IS�/uOL�\<Z~_'�D!�IE�Ŭ!����Y.$���)K2����H�^�5���H�@�
+�,��)�:[�pI׹N�h�-ryh�2�kjQR� ��"��؊�؊ך��E���frG����r��ҦSEW�>�շ��9���'(QE�����@-�k�!���:�}`I��@`0@(l�2q�b�5\@�s�
+�6m�%�W��Q�N-*�m2f`��,����F�H	 ah�n�����R��1!��6_	�%yk�KA��O"i$dʴW���BcP!�gRcS+j��Q�Dv��dm�߾�hI9��d��u�]t%�s̴�y��4�(qT]��U�{z���՟�ߟ�N��0%N�-�z����dVBR��UJ�Z�	S�T�9N���?����$�I"H�dJ��(J���"H�
+@��$�"J�[NLV�[�]��}uj�ևBP�bb���[Z��qqё8�jիNLO]��e˗Z֬�Z�jխ.y��FFOaё��:%"G�ͪ�D��j8�y"D��y�H)/�.q*��Q:d�N$���D���U���U�335U_����g����H�KjLAME3.100������������������������������������������������������������������������������������������L="�IA�I���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
